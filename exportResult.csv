@@ -1,0 +1,19 @@
+152018066 M.Scandy Pradapta P
+
+Nilai Berat Badan Masukan: 54
+
+SUM X: 1998
+SUM Y: 1644
+SUM X^2: 100968
+SUM Y^2: 68332
+SUM X*Y: 81381
+Konstanta a: 72.6122527613665
+Koefisien b: -0.63087593115849
+Korelasi: -0.7802141601988
+Hubungan: negatif
+Kekuatan: kuat
+Koefisien Determinasi: 60.9%
+Kontribusi Variable Lain: 39.1
+Input x: 54
+Hasil gradient y = a + bx adalah: 0
+Keterangan: Maka dapat disimpulkan bahwa variable berat badan memiliki hubungan/kekuatan yang kuat dengan kecepatan lari, sehingga berat badan berpengaruh dengan kecepatan lari

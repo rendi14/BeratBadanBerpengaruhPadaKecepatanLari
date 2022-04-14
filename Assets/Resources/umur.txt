@@ -1,0 +1,200 @@
+{
+  "Values": [
+  {
+    "Berat Badan": 160,
+    "Kecepatan Lari": 30
+  },
+  {
+    "Berat Badan": 161,
+    "Kecepatan Lari": 31
+  },
+  {
+    "Berat Badan": 162,
+    "Kecepatan Lari": 32
+  },
+  {
+    "Berat Badan": 163,
+    "Kecepatan Lari": 33
+  },
+  {
+    "Berat Badan": 164,
+    "Kecepatan Lari": 34
+  },
+  {
+    "Berat Badan": 165,
+    "Kecepatan Lari": 35
+  },
+  {
+    "Berat Badan": 166,
+    "Kecepatan Lari": 36
+  },
+  {
+    "Berat Badan": 167,
+    "Kecepatan Lari": 37
+  },
+  {
+    "Berat Badan": 168,
+    "Kecepatan Lari": 38
+  },
+  {
+    "Berat Badan": 169,
+    "Kecepatan Lari": 39
+  },
+  {
+    "Berat Badan": 170,
+    "Kecepatan Lari": 40
+  },
+  {
+    "Berat Badan": 171,
+    "Kecepatan Lari": 41
+  },
+  {
+    "Berat Badan": 172,
+    "Kecepatan Lari": 42
+  },
+  {
+    "Berat Badan": 173,
+    "Kecepatan Lari": 43
+  },
+  {
+    "Berat Badan": 174,
+    "Kecepatan Lari": 44
+  },
+  {
+    "Berat Badan": 175,
+    "Kecepatan Lari": 45
+  },
+  {
+    "Berat Badan": 176,
+    "Kecepatan Lari": 46
+  },
+  {
+    "Berat Badan": 177,
+    "Kecepatan Lari": 47
+  },
+  {
+    "Berat Badan": 178,
+    "Kecepatan Lari": 48
+  },
+  {
+    "Berat Badan": 179,
+    "Kecepatan Lari": 49
+  },
+  {
+    "Berat Badan": 180,
+    "Kecepatan Lari": 50
+  },
+  {
+    "Berat Badan": 181,
+    "Kecepatan Lari": 51
+  },
+  {
+    "Berat Badan": 182,
+    "Kecepatan Lari": 52
+  },
+  {
+    "Berat Badan": 183,
+    "Kecepatan Lari": 53
+  },
+  {
+    "Berat Badan": 184,
+    "Kecepatan Lari": 54
+  },
+  {
+    "Berat Badan": 185,
+    "Kecepatan Lari": 55
+  },
+  {
+    "Berat Badan": 150,
+    "Kecepatan Lari": 20
+  },
+  {
+    "Berat Badan": 151,
+    "Kecepatan Lari": 21
+  },
+  {
+    "Berat Badan": 152,
+    "Kecepatan Lari": 22
+  },
+  {
+    "Berat Badan": 153,
+    "Kecepatan Lari": 23
+  },
+  {
+    "Berat Badan": 154,
+    "Kecepatan Lari": 24
+  },
+  {
+    "Berat Badan": 155,
+    "Kecepatan Lari": 25
+  },
+  {
+    "Berat Badan": 156,
+    "Kecepatan Lari": 26
+  },
+  {
+    "Berat Badan": 157,
+    "Kecepatan Lari": 27
+  },
+  {
+    "Berat Badan": 158,
+    "Kecepatan Lari": 28
+  },
+  {
+    "Berat Badan": 159,
+    "Kecepatan Lari": 29
+  },
+  {
+    "Berat Badan": 140,
+    "Kecepatan Lari": 10
+  },
+  {
+    "Berat Badan": 141,
+    "Kecepatan Lari": 11
+  },
+  {
+    "Berat Badan": 142,
+    "Kecepatan Lari": 12
+  },
+  {
+    "Berat Badan": 143,
+    "Kecepatan Lari": 13
+  },
+  {
+    "Berat Badan": 144,
+    "Kecepatan Lari": 14
+  },
+  {
+    "Berat Badan": 145,
+    "Kecepatan Lari": 15
+  },
+  {
+    "Berat Badan": 146,
+    "Kecepatan Lari": 16
+  },
+  {
+    "Berat Badan": 147,
+    "Kecepatan Lari": 17
+  },
+  {
+    "Berat Badan": 148,
+    "Kecepatan Lari": 18
+  },
+  {
+    "Berat Badan": 149,
+    "Kecepatan Lari": 19
+  },
+  {
+    "Berat Badan": 130,
+    "Kecepatan Lari": 9
+  },
+  {
+    "Berat Badan": 131,
+    "Kecepatan Lari": 8
+  },
+  {
+    "Berat Badan": 132,
+    "Kecepatan Lari": 7
+  }
+]
+}

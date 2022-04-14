@@ -1,0 +1,164 @@
+{
+  "Values": [
+    {
+      "BeratBadan": 45,
+      "KecepatanLari": 40
+    },
+    {
+      "BeratBadan": 46,
+      "KecepatanLari": 44
+    },
+    {
+      "BeratBadan": 50,
+      "KecepatanLari": 41
+    },
+    {
+      "BeratBadan": 45,
+      "KecepatanLari": 45
+    },
+    {
+      "BeratBadan": 44,
+      "KecepatanLari": 45
+    },
+    {
+      "BeratBadan": 52,
+      "KecepatanLari": 30
+    },
+    {
+      "BeratBadan": 46,
+      "KecepatanLari": 43
+    },
+    {
+      "BeratBadan": 51,
+      "KecepatanLari": 39
+    },
+    {
+      "BeratBadan": 49,
+      "KecepatanLari": 39
+    },
+    {
+      "BeratBadan": 54,
+      "KecepatanLari": 40
+    },
+    {
+      "BeratBadan": 55,
+      "KecepatanLari": 40
+    },
+    {
+      "BeratBadan": 43,
+      "KecepatanLari": 48
+    },
+    {
+      "BeratBadan": 49,
+      "KecepatanLari": 40
+    },
+    {
+      "BeratBadan": 49,
+      "KecepatanLari": 41
+    },
+    {
+      "BeratBadan": 48,
+      "KecepatanLari": 38
+    },
+    {
+      "BeratBadan": 47,
+      "KecepatanLari": 41
+    },
+    {
+      "BeratBadan": 56,
+      "KecepatanLari": 40
+    },
+    {
+      "BeratBadan": 56,
+      "KecepatanLari": 35
+    },
+    {
+      "BeratBadan": 45,
+      "KecepatanLari": 44
+    },
+    {
+      "BeratBadan": 46,
+      "KecepatanLari": 43
+    },
+    {
+      "BeratBadan": 45,
+      "KecepatanLari": 44
+    },
+    {
+      "BeratBadan": 45,
+      "KecepatanLari": 43
+    },
+    {
+      "BeratBadan": 47,
+      "KecepatanLari": 43
+    },
+    {
+      "BeratBadan": 49,
+      "KecepatanLari": 42
+    },
+    {
+      "BeratBadan": 46,
+      "KecepatanLari": 44
+    },
+    {
+      "BeratBadan": 47,
+      "KecepatanLari": 44
+    },
+    {
+      "BeratBadan": 47,
+      "KecepatanLari": 46
+    },
+    {
+      "BeratBadan": 54,
+      "KecepatanLari": 38
+    },
+    {
+      "BeratBadan": 55,
+      "KecepatanLari": 37
+    },
+    {
+      "BeratBadan": 59,
+      "KecepatanLari": 39
+    },
+    {
+      "BeratBadan": 58,
+      "KecepatanLari": 40
+    },
+    {
+      "BeratBadan": 60,
+      "KecepatanLari": 33
+    },
+    {
+      "BeratBadan": 62,
+      "KecepatanLari": 34
+    },
+    {
+      "BeratBadan": 44,
+      "KecepatanLari": 46
+    },
+    {
+      "BeratBadan": 46,
+      "KecepatanLari": 47
+    },
+    {
+      "BeratBadan": 47,
+      "KecepatanLari": 45
+    },
+    {
+      "BeratBadan": 60,
+      "KecepatanLari": 30
+    },
+    {
+      "BeratBadan": 60,
+      "KecepatanLari": 39
+    },
+    {
+      "BeratBadan": 45,
+      "KecepatanLari": 47
+    },
+    {
+      "BeratBadan": 46,
+      "KecepatanLari": 47
+    }
+  ]
+}
